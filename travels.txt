@@ -1,0 +1,3 @@
+vacation1 = "Europe travel to Germany, Spain, Italy and France"
+vacation2 = "Toronto"
+vacation3 = "Vancouver"
