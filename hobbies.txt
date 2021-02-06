@@ -1,0 +1,3 @@
+hobbies1 = "walking dog"
+hobbies2 = "reading"
+hobbies3 = "playing uke"
